@@ -1,0 +1,36 @@
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    line-height: 3;
+}
+img{
+    box-shadow: 0 6px 8px rgba(2,2,2,0.2);
+    height:400px ;
+    width:400px ;
+}
+img:hover{
+    border-radius: 140px;
+    border-radius: 130px;
+    border-radius:120px;
+}
+body {
+    background: linear-gradient(to bottom right,salmon,gold)
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 100;
+}
+h4 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 150;
+}
+#camera {
+height: 100px;
+width:200px;
+}
